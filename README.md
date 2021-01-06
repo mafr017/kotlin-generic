@@ -5,5 +5,7 @@ Generic adalah kemampuan menambahkan parameter type saat membuat class atau func
 - Tidak perlu manual menggunakan pengecekan tipe data dan konversi tipe data
 - Memudahkan membuat kode program yang generic sehingga bisa digunakan oleh berbagai data
 
+1. Generic Type
+    - Multiple Parameter Type
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
