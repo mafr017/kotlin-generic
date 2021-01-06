@@ -12,5 +12,7 @@ Generic adalah kemampuan menambahkan parameter type saat membuat class atau func
 3. Invariant
 4. Covariant
 5. Contravariant
+6. Generic Constraint
+   - Where Keyword
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
