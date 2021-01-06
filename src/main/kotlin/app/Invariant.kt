@@ -9,5 +9,5 @@ fun main() {
      * saat membuat object Contoh<String>, maka tidak sama dengan Contoh<Any>, begitupun sebaliknya
      */
     val invariantString = Invariant("String")
-    val invariantAny: Invariant<Any> = invariantString //tidak bisa
+//    val invariantAny: Invariant<Any> = invariantString //tidak bisa
 }

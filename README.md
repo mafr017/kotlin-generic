@@ -10,5 +10,6 @@ Generic adalah kemampuan menambahkan parameter type saat membuat class atau func
    - Multiple Parameter Type
 2. Generic Function
 3. Invariant
+4. Covariant
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
