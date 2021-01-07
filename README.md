@@ -19,5 +19,6 @@ Generic adalah kemampuan menambahkan parameter type saat membuat class atau func
 9. Type Erasure
 10. Comparable Interface
 11. ReadOnlyProperty Interface
+12. ReadWriteProperty Interface
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
