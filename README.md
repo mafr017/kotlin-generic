@@ -15,5 +15,6 @@ Generic adalah kemampuan menambahkan parameter type saat membuat class atau func
 6. Generic Constraint
    - Where Keyword
 7. Type Projection
+8. Star Projection
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
