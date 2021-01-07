@@ -17,5 +17,6 @@ Generic adalah kemampuan menambahkan parameter type saat membuat class atau func
 7. Type Projection
 8. Star Projection
 9. Type Erasure
+10. Comparable Interface
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
