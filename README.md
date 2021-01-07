@@ -21,5 +21,6 @@ Generic adalah kemampuan menambahkan parameter type saat membuat class atau func
 11. ReadOnlyProperty Interface
 12. ReadWriteProperty Interface
 13. ObservableProperty Class
+14. Generic Extension Function
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
